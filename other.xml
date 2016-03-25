@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="4.2.2" last-modified="1446580417000" />
+  </component>
+</application>
